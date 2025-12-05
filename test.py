@@ -20,4 +20,3 @@ def subtract(a:int,b:int):
 def subtract_numbers(model:subtractmodel):
     return subtract(model.a,model.b)
 
-print(add(3,4))
